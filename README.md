@@ -1,2 +1,3 @@
-# cs50
-EdX CS50s 2021
+# CS50x
+EdX CS50x 2020
+
